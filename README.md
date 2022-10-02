@@ -1,2 +1,15 @@
 # fyatto
-a personal repository
+
+一份施工中的二人仓库，内容包括但不限于
+
++ 文字
+
++ 视频
+
++ ppt
+
++ pdf
+
++ 以及各种可电子化记录的东西
+
+所以，请尽情commit吧
